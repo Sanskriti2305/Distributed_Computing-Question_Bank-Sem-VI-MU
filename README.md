@@ -8,7 +8,7 @@
 
 ## 🌐 Live Website
 
-**👉 [Open the Question Bank]((https://sanskriti2305.github.io/Distributed_Computing-Question_Bank-Sem-VI-MU/))**
+**👉 [Open the Question Bank](https://your-website-link-here.github.io/DC-Question-Bank-SEM-VI-MU/)**
 
 Browse module-wise PYQs with repeated-question analysis, HOT topics, and descriptive answer PDFs.
 
